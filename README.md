@@ -1,2 +1,2 @@
 # flask-init-mini
-Boilerplate fro Flask projects
+Boilerplate for Flask projects while referrencing https://github.com/ldynia/workshop-github-fundamentals
